@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sobre</title>
+</head>
+<body>
+    <h1>SOBRE</h1>
+    <a href="/">Voltar para a página inicial</a>
+</body>
+</html>
